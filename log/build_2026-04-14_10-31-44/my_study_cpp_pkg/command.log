@@ -1,0 +1,6 @@
+Invoking command in '/home/ytqjk/桌面/my_study_ros_ws/build/my_study_cpp_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ytqjk/桌面/my_study_ros_ws/src/my_study_cpp_pkg -DCMAKE_INSTALL_PREFIX=/home/ytqjk/桌面/my_study_ros_ws/install/my_study_cpp_pkg
+Invoked command in '/home/ytqjk/桌面/my_study_ros_ws/build/my_study_cpp_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ytqjk/桌面/my_study_ros_ws/src/my_study_cpp_pkg -DCMAKE_INSTALL_PREFIX=/home/ytqjk/桌面/my_study_ros_ws/install/my_study_cpp_pkg
+Invoking command in '/home/ytqjk/桌面/my_study_ros_ws/build/my_study_cpp_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ytqjk/桌面/my_study_ros_ws/build/my_study_cpp_pkg -- -j16 -l16
+Invoked command in '/home/ytqjk/桌面/my_study_ros_ws/build/my_study_cpp_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ytqjk/桌面/my_study_ros_ws/build/my_study_cpp_pkg -- -j16 -l16
+Invoking command in '/home/ytqjk/桌面/my_study_ros_ws/build/my_study_cpp_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ytqjk/桌面/my_study_ros_ws/build/my_study_cpp_pkg
+Invoked command in '/home/ytqjk/桌面/my_study_ros_ws/build/my_study_cpp_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ytqjk/桌面/my_study_ros_ws/build/my_study_cpp_pkg
