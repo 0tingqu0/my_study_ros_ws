@@ -1,6 +1,7 @@
 /home/ytqjk/桌面/my_study_ros_ws/build/my_study_cpp_pkg/CMakeFiles/uninstall.dir
 /home/ytqjk/桌面/my_study_ros_ws/build/my_study_cpp_pkg/CMakeFiles/my_study_cpp_pkg_uninstall.dir
 /home/ytqjk/桌面/my_study_ros_ws/build/my_study_cpp_pkg/CMakeFiles/cpp_node.dir
+/home/ytqjk/桌面/my_study_ros_ws/build/my_study_cpp_pkg/CMakeFiles/person_node.dir
 /home/ytqjk/桌面/my_study_ros_ws/build/my_study_cpp_pkg/CMakeFiles/test.dir
 /home/ytqjk/桌面/my_study_ros_ws/build/my_study_cpp_pkg/CMakeFiles/edit_cache.dir
 /home/ytqjk/桌面/my_study_ros_ws/build/my_study_cpp_pkg/CMakeFiles/rebuild_cache.dir

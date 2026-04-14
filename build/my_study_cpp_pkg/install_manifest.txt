@@ -1,4 +1,5 @@
 /home/ytqjk/桌面/my_study_ros_ws/install/my_study_cpp_pkg/lib/my_study_cpp_pkg/cpp_node
+/home/ytqjk/桌面/my_study_ros_ws/install/my_study_cpp_pkg/lib/my_study_cpp_pkg/person_node
 /home/ytqjk/桌面/my_study_ros_ws/install/my_study_cpp_pkg/share/ament_index/resource_index/package_run_dependencies/my_study_cpp_pkg
 /home/ytqjk/桌面/my_study_ros_ws/install/my_study_cpp_pkg/share/ament_index/resource_index/parent_prefix_path/my_study_cpp_pkg
 /home/ytqjk/桌面/my_study_ros_ws/install/my_study_cpp_pkg/share/my_study_cpp_pkg/environment/ament_prefix_path.sh
